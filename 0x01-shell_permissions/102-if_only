@@ -1,2 +1,2 @@
 #!/bin/bash
-chown _R --from=gulliaume betty
+chown _R --from=gulliaume betty /
